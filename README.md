@@ -1,1 +1,1 @@
-# WarasCek---Aplikasi-cek-kepintaran
+# MindoraIQ---Aplikasi-cek-kepintaran
